@@ -22,6 +22,7 @@ I build clean, responsive mobile applications with Flutter and Dart. I am curren
 | [Islami App](https://github.com/mohamedadel289/islami_app) | Quran and Hadith content, prayer times API, audio radio, local persistence |
 | [Spaace](https://github.com/mohamedadel289/spaace) | Responsive UI, planet details, assets, and interactive navigation |
 | [Tic Tac Toe](https://github.com/mohamedadel289/Tic_Tak_Tok-Game) | Game state, win detection, score tracking, and round feedback |
+| [Movies App](https://github.com/ziadabdelmohsen/movies_app_route) | Team project contributed to with Flutter mobile development |
 
 ## Contact
 
