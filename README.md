@@ -27,6 +27,7 @@ I build clean, responsive mobile applications with Flutter and Dart. I am curren
 ## Contact
 
 - GitHub: [@mohamedadel289](https://github.com/mohamedadel289)
+- LinkedIn: [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-32a269217/)
 - Open to: Junior Mobile Developer opportunities
 
 Thanks for visiting my profile.
